@@ -1,9 +1,4 @@
-1751481504979: / New request received
-1751481524509: /about New request received
-1751481616365: / New request received
-1751481618128: /about New request received
-1751481663945: /about?myname=santosh New request received
-1751481753724: /about?myname=santosh New request received
-1751481876069: /about?myname=santosh&search=dog New request received
-1751482085128: /about?myname=santosh&search=dog New request received
-1751482144449: /about?myname=santosh&search=dog New request received
+1751483138361: GET / New request received
+1751483165828: GET /about New request received
+1751483332011: GET /signup New request received
+1751483375848: GET /signup New request received
